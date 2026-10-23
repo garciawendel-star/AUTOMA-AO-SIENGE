@@ -1,0 +1,33 @@
+{
+  "sienge_url": "https://bjgestao.sienge.com.br/sienge/8/index.html#/common/page/1997",
+  "pdf_path": "Pedidos Pendentes.pdf",
+  "excel_contacts_path": "Base_Contatos_Fornecedores.xlsx",
+  "dry_run": false,
+  "email_mode": "drafts",
+  "email_provider": "outlook",
+  "send_supplier_emails": true,
+  "send_management_report": true,
+  "management_emails": [
+    "diretoria@exemplo.com.br"
+  ],
+  "obra_engineers_emails": {
+    "188": "engenheiro1@exemplo.com.br",
+    "217": "engenheiro2@exemplo.com.br"
+  },
+  "browser": "auto",
+  "delay_between_orders_seconds": 1.5,
+  "remote_debugging_port": 9222,
+  "theme": "dark",
+  "sienge_url_solicitacoes": "https://bjgestao.sienge.com.br/sienge/8/index.html#/common/page/1328",
+  "sienge_url_cancelamento": "https://bjgestao.sienge.com.br/sienge/8/index.html#/common/page/1997",
+  "cost_centers": "188,217,233,393,446,416,417,442,441,445,455,472,503",
+  "start_date": "01/01/2026",
+  "end_date": "14/10/2026",
+  "download_dir": "C:\\Downloads\\SOLICITACOES",
+  "macro_file": "C:\\Caminho\\01 - Resumo de Cotacao - MACRO.xlsm",
+  "schedule_time": "07:00",
+  "schedule_enabled": false,
+  "gemini_api_key": "SUA_CHAVE_GEMINI_AQUI",
+  "gemini_model": "gemini-2.5-flash",
+  "considerar_frete_equalizacao": true
+}

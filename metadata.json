@@ -1,0 +1,8 @@
+{
+  "name": "Plataforma Ômega — Suprimentos & SIENGE",
+  "description": "Plataforma integrada de suprimentos, mapas de cotação comparativos, cancelamento de pedidos SIENGE, alertas a gestores e agente autônomo de cotação e negociação com IA.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}

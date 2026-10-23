@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*/__pycache__/
+modulos/__pycache__/
+
+# Configurações locais com emails / caminhos de rede internos
+config.json
+*.bak
+
+# Perfil do navegador (sessões, cookies, cache)
+sienge_automation_profile/
+
+# Logs e capturas de tela temporárias
+logs/
+*.log
+execucao.log
+sienge_report_result.png
+
+# Relatórios exportados gerados
+relatorios_exportados/
+*.xlsx
+*.xlsm
+*.xls
+
+# Bases de dados locais e dados operacionais
+dados/Base_Contatos_Fornecedores.xlsx
+dados/contatos_atualizados.json
+dados/historico_cancelamentos.json
+dados/mapas_cotacao_db.json
+dados/usuarios.json
+dados/Pedidos Pendentes.pdf
+dados/*.xlsx
+dados/*.pdf
+dados/*.json
+Base_Contatos_Fornecedores.xlsx
+contatos_atualizados.json
+historico_cancelamentos.json
+Pedidos Pendentes.pdf
+*.pdf
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Build e executáveis
+dist/
+build/
+*.spec
+
+# IDEs e editores
+.vscode/
+.idea/
+*.suo
+*.user
